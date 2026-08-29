@@ -1,0 +1,33 @@
+.{
+    .name = .libxcursor,
+    .version = "1.2.3",
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{
+        .xcursor = .{
+            .url = "https://gitlab.freedesktop.org/xorg/lib/libxcursor/-/archive/libXcursor-1.2.3/libxcursor-libXcursor-1.2.3.tar.gz",
+            .hash = "N-V-__8AAKtlAgAAqwksheZkCSajEEPpi2XivNet-_3hZyz2",
+        },
+        .x11 = .{
+            .url = "https://github.com/akunaakwei/zig-libx11/archive/e84faf87f868e6fa0ea26e398e035b143e6d7f2e.tar.gz",
+            .hash = "libx11-1.8.13-NKkstnczAAD4Tp8HZdqSjK9QWX0JvCNh3MO8JyzOG2y6",
+        },
+        .xorgproto = .{
+            .url = "https://github.com/akunaakwei/zig-xorgproto/archive/9e416e104fa6067538c08e739de2862721a410cc.tar.gz",
+            .hash = "xorgproto-2025.1.0-38NRV9YKAAB8_MV39Y_a1TPHc5p55a8VAmiXDAJgU3t7",
+        },
+        .xrender = .{
+            .url = "https://github.com/akunaakwei/zig-libxrender/archive/00cf03e3675c7d0325aa3b3f6d9ca95af338032d.zip",
+            .hash = "libxrender-0.9.12-U_rRgTkNAACQP-7cB1KFD_054BjT_67rN4CkBRWMMBAJ",
+        },
+        .xfixes = .{
+            .url = "https://github.com/akunaakwei/zig-libxfixes/archive/258989eb223eec7a0c9f016b303b1973459453a1.tar.gz",
+            .hash = "libxfixes-6.0.2-bp6sjMAMAAArOAF2gCR-sHxB4-H8PERu3Z9KMoe3NkcO",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+    },
+    .fingerprint = 0xe16549d0c4294586,
+}
