@@ -8,20 +8,20 @@
             .hash = "N-V-__8AAKtlAgAAqwksheZkCSajEEPpi2XivNet-_3hZyz2",
         },
         .x11 = .{
-            .url = "https://github.com/akunaakwei/zig-libx11/archive/077a2d2cc95456befc94d63a0c49f28fac83979b.tar.gz",
-            .hash = "libx11-1.8.13-NKkstvVPAABEUcbFXDM3hqMcvt-UXsKcAQPJtaYne5N8",
+            .url = "https://github.com/akunaakwei/zig-libx11/archive/a5387d1af204117607ddca0e2c8b4e1dff956013.tar.gz",
+            .hash = "libx11-1.8.13-NKkstv5QAAAUBg88_YGJUvHe5SHn_dws85OQoYVIcIvi",
         },
         .xorgproto = .{
             .url = "https://github.com/akunaakwei/zig-xorgproto/archive/9e416e104fa6067538c08e739de2862721a410cc.tar.gz",
             .hash = "xorgproto-2025.1.0-38NRV9YKAAB8_MV39Y_a1TPHc5p55a8VAmiXDAJgU3t7",
         },
         .xrender = .{
-            .url = "https://github.com/akunaakwei/zig-libxrender/archive/8981818e3f41b5fda1ed02ba90839ca50a91678e.zip",
-            .hash = "libxrender-0.9.12-U_rRgTkNAAD9okqZ3tSTjzYwEdNGJeWNlq-eoPGg3jUh",
+            .url = "https://github.com/akunaakwei/zig-libxrender/archive/dc46f02735e362827b36449c0106dbe5b1bd754c.zip",
+            .hash = "libxrender-0.9.12-U_rRgY8NAADr3nCsupeTDBkZPU2kWKf5kjOP4cwkB5gK",
         },
         .xfixes = .{
-            .url = "https://github.com/akunaakwei/zig-libxfixes/archive/8c6e3f5dcecda90c06ed737e050a2b5f5b578ed0.tar.gz",
-            .hash = "libxfixes-6.0.2-bp6sjMAMAACIGJWhzNkvXJlazWLRUNftnr6tVx8DFBYF",
+            .url = "https://github.com/akunaakwei/zig-libxfixes/archive/bd6339860d97d8a3b58e9871ab13e22b3b277d72.tar.gz",
+            .hash = "libxfixes-6.0.2-bp6sjBYNAADabaCSoswStNP0df7uXAwMDmvaZ8_2ms7a",
         },
     },
     .paths = .{
